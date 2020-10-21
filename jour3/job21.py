@@ -1,7 +1,7 @@
 # Ecrire un programme qui parcours le fichier “data.txt” et qui compte le nombre d’occurence de chaque lettre(Minuscules et Capitales comptent pour la même lettre) en début de mot. A l’aide du module MatPlotLib, générer un histogramme représentant le pourcentage de présence de chaque lettre en début de mot.
 # "Data.txt" dosyasını tarayan ve kelimenin başındaki her harfin geçtiği sayıları (Küçük ve Büyük Harfler aynı harf olarak sayılır) sayan bir program yazın. MatPlotLib modülünü kullanarak, bir kelimenin başındaki her harfin var olma yüzdesini temsil eden bir histogram oluşturun.
 import matplotlib.pyplot as plt
-from itertools import combinations_with_replacement
+from itertools import combinations_with_replacement, permutations
 
 liste = []
 fichier = open('data.txt', 'r')
@@ -22,11 +22,16 @@ alphabet = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l",
             "m", "n", "o", "p", "q", "r", "s", "t", "u", "v",  "w",  "x", "y", "z"]
 
 lstAlphabet = []
+per = permutations(alphabet, 2)
 comb = combinations_with_replacement(alphabet, 2)
+
 for i in list(comb):
     lstAlphabet.append(''.join(i))
+for i in list(per):
+    lstAlphabet.append(''.join(i))
+lstAlphabet = set(lstAlphabet)
+lstAlphabet = list(lstAlphabet)
 
-print(lstAlphabet)
 liste3 = []
 for alfa in lstAlphabet:
     cnt = 0
@@ -35,12 +40,29 @@ for alfa in lstAlphabet:
             cnt = cnt + 1
     liste3.append(cnt)
 
-total = sum(liste3)
 liste4 = []
-for chiffre in liste3:
-    cnt = chiffre*100/total
-    liste4.append(cnt)
 
+for harf in alphabet:
+    lst = []
+    for mot in lstAlphabet:
+        indis = lstAlphabet.index(mot)
+        if mot[0] == harf:
+            lst.append(liste3[indis])
+    liste4.append(lst)
+
+liste5 = []
+for i in liste4:
+    total = sum(i)
+    print(total)
+    lst1 = []
+    for chiffre in i:
+        cnt = chiffre*100/total
+        lst1.append(cnt)
+        print(cnt)
+    liste5.append(lst1)
+
+print(liste4)
+print(liste5)
 
 # labels = alphabet
 # sizes = liste4

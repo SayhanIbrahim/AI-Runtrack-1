@@ -28,9 +28,6 @@ for chiffre in liste3:
     cnt = chiffre*100/total
     liste4.append(cnt)
 
-print(liste3)
-print(liste4)
-
 labels = alphabet
 sizes = liste4
 width = 0.55       # the width of the bars: can also be len(x) sequence

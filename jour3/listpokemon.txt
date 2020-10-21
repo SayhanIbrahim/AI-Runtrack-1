@@ -1,0 +1,253 @@
+Bulbasaurdagger	
+Chikoritadagger	
+Treeckodagger	
+Turtwigdagger	
+Victini ♭	
+Chespindagger	
+Rowletdagger	
+   	Grookeydagger
+   	Ivysaur	   	Bayleef	   	Grovyle	   	Grotle	   	Snivydagger	   	Quilladin	   	Dartrix	   	Thwackey
+   	Venusaur	   	Meganium	   	Sceptile	   	Torterra	   	Servine	   	Chesnaught	   	Decidueye	   	Rillaboom
+   	Charmanderdagger	   	Cyndaquildagger	   	Torchicdagger	   	Chimchardagger	   	Serperior	   	Fennekindagger	   	Littendagger	   	Scorbunnydagger
+   	Charmeleon	   	Quilava	   	Combusken	   	Monferno	   	Tepigdagger	   	Braixen	   	Torracat	   	Raboot
+   	Charizard	   	Typhlosion	   	Blaziken	   	Infernape	   	Pignite	   	Delphox	   	Incineroar	   	Cinderace
+   	Squirtledagger	   	Totodiledagger	   	Mudkipdagger	   	Piplupdagger	   	Emboar	   	Froakiedagger	   	Poppliodagger	   	Sobble dagger
+   	Wartortle	   	Croconaw	   	Marshtomp	   	Prinplup	   	Oshawottdagger	   	Frogadier	   	Brionne	   	Drizzile
+   	Blastoise	   	Feraligatr	   	Swampert	   	Empoleon	   	Dewott	   	Greninja	   	Primarina	   	Inteleon
+   	Caterpie	   	Sentret	   	Poochyena	   	Starly	   	Samurott	   	Bunnelby	   	Pikipek	   	Skwovet
+   	Metapod	   	Furret	   	Mightyena	   	Staravia		Patrat	   	Diggersby	   	Trumbeak	   	Greedent
+   	Butterfree	   	Hoothoot	   	Zigzagoon	   	Staraptor	   	Watchog	   	Fletchling	   	Toucannon	   	Rookidee
+   	Weedle	   	Noctowl	   	Linoone	   	Bidoof	   	Lillipup	   	Fletchinder	   	Yungoos	   	Corvisquire
+   	Kakuna	   	Ledyba	   	Wurmple	   	Bibarel	   	Herdier	   	Talonflame	   	Gumshoos	   	Corviknight
+   	Beedrill	   	Ledian	   	Silcoon	   	Kricketot	   	Stoutland	   	Scatterbug	   	Grubbin	   	Blipbug
+   	Pidgey	   	Spinarak	   	Beautifly	   	Kricketune	   	Purrloin	   	Spewpa	   	Charjabug	   	Dottler
+   	Pidgeotto	   	Ariados	   	Cascoon	   	Shinx	   	Liepard	   	Vivillon	   	Vikavolt	   	Orbeetle
+   	Pidgeot	   	Crobat	   	Dustox	   	Luxio	   	Pansage	   	Litleo	   	Crabrawler	   	Nickit
+   	Rattata	   	Chinchou	   	Lotad	   	Luxray	   	Simisage	   	Pyroar	   	Crabominable	   	Thievul
+   	Raticate	   	Lanturn	   	Lombre	   	Budew ※	   	Pansear	   	Flabébé	   	Oricorio	   	Gossifleur
+   	Spearow	   	Pichu ※	   	Ludicolo	   	Roserade	   	Simisear	   	Floette	   	Cutiefly	   	Eldegoss
+   	Fearow	   	Cleffa ※	   	Seedot	   	Cranidos ~	   	Panpour	   	Florges	   	Ribombee	   	Wooloo
+   	Ekans	   	Igglybuff ※	   	Nuzleaf	   	Rampardos ~	   	Simipour	   	Skiddo	   	Rockruff	   	Dubwool
+   	Arbok	   	Togepi ※	   	Shiftry	   	Shieldon ~	   	Munna	   	Gogoat	   	Lycanroc	   	Chewtle
+   	Pikachudagger[c]	   	Togetic	   	Taillow	   	Bastiodon ~	   	Musharna	   	Pancham	   	Wishiwashi	   	Drednaw
+   	Raichu	   	Natu	   	Swellow	   	Burmy	   	Pidove	   	Pangoro	   	Mareanie	   	Yamper
+   	Sandshrew	   	Xatu	   	Wingull	   	Wormadam	   	Tranquill	   	Furfrou	   	Toxapex	   	Boltund
+   	Sandslash	   	Mareep	   	Pelipper	   	Mothim	   	Unfezant	   	Espurr	   	Mudbray	   	Rolycoly
+   	Nidoran♀	   	Flaaffy	   	Ralts	   	Combee	   	Blitzle	   	Meowstic	   	Mudsdale	   	Carkol
+   	Nidorina	   	Ampharos	   	Kirlia	   	Vespiquen	   	Zebstrika	   	Honedge	   	Dewpider	   	Coalossal
+   	Nidoqueen	   	Bellossom	   	Gardevoir	   	Pachirisu	   	Roggenrola	   	Doublade	   	Araquanid	   	Applin
+   	Nidoran♂	   	Marill	   	Surskit	   	Buizel	   	Boldore	   	Aegislash	   	Fomantis	   	Flapple
+   	Nidorino	   	Azumarill	   	Masquerain	   	Floatzel	   	Gigalith	   	Spritzee	   	Lurantis	   	Appletun
+   	Nidoking	   	Sudowoodo	   	Shroomish	   	Cherubi	   	Woobat	   	Aromatisse	   	Morelull	   	Silicobra
+   	Clefairy	   	Politoed	   	Breloom	   	Cherrim	   	Swoobat	   	Swirlix	   	Shiinotic	   	Sandaconda
+   	Clefable	   	Hoppip	   	Slakoth	   	Shellos	   	Drilbur	   	Slurpuff	   	Salandit	   	Cramorant
+   	Vulpix	   	Skiploom	   	Vigoroth	   	Gastrodon	   	Excadrill	   	Inkay	   	Salazzle	   	Arrokuda
+   	Ninetales	   	Jumpluff	   	Slaking	   	Ambipom	   	Audino	   	Malamar	   	Stufful	   	Barraskewda
+   	Jigglypuff	   	Aipom	   	Nincada	   	Drifloon	   	Timburr	   	Binacle	   	Bewear	   	Toxel ※
+   	Wigglytuff	   	Sunkern	   	Ninjask	   	Drifblim	   	Gurdurr	   	Barbaracle	   	Bounsweet	   	Toxtricity
+   	Zubat	   	Sunflora	   	Shedinja	   	Buneary	   	Conkeldurr	   	Skrelp	   	Steenee	   	Sizzlipede
+   	Golbat	   	Yanma	   	Whismur	   	Lopunny	   	Tympole	   	Dragalge	   	Tsareena	   	Centiskorch
+   	Oddish	   	Wooper	   	Loudred	   	Mismagius	   	Palpitoad	   	Clauncher	   	Comfey	   	Clobbopus
+   	Gloom	   	Quagsire	   	Exploud	   	Honchkrow	   	Seismitoad	   	Clawitzer	   	Oranguru	   	Grapploct
+   	Vileplume	   	Espeon	   	Makuhita	   	Glameow	   	Throh	   	Helioptile	   	Passimian	   	Sinistea
+   	Paras	   	Umbreon	   	Hariyama	   	Purugly	   	Sawk	   	Heliolisk	   	Wimpod	   	Polteageist
+   	Parasect	   	Murkrow	   	Azurill ※	   	Chingling ※	   	Sewaddle	   	Tyrunt ~	   	Golisopod	   	Hatenna
+   	Venonat	   	Slowking	   	Nosepass	   	Stunky	   	Swadloon	   	Tyrantrum ~	   	Sandygast	   	Hattrem
+   	Venomoth	   	Misdreavus	   	Skitty	   	Skuntank	   	Leavanny	   	Amaura ~	   	Palossand	   	Hatterene
+   	Diglett	   	Unown	   	Delcatty	   	Bronzor	   	Venipede	   	Aurorus ~	   	Pyukumuku	   	Impidimp
+   	Dugtrio	   	Wobbuffet	   	Sableye	   	Bronzong	   	Whirlipede	   	Sylveon	   	Type: Null double-dagger	   	Morgrem
+   	Meowth	   	Girafarig	   	Mawile	   	Bonsly ※	   	Scolipede	   	Hawlucha	   	Silvally double-dagger	   	Grimmsnarl
+   	Persian	   	Pineco	   	Aron	   	Mime Jr. ※	   	Cottonee	   	Dedenne	   	Minior	   	Obstagoon
+   	Psyduck	   	Forretress	   	Lairon	   	Happiny ※	   	Whimsicott	   	Carbink	   	Komala	   	Perrserker
+   	Golduck	   	Dunsparce	   	Aggron	   	Chatot	   	Petilil	   	Goomy	   	Turtonator	   	Cursola
+   	Mankey	   	Gligar	   	Meditite	   	Spiritomb	   	Lilligant	   	Sliggoo	   	Togedemaru	   	Sirfetch'd
+   	Primeape	   	Steelix	   	Medicham	   	Gible	   	Basculin	   	Goodra	   	Mimikyu	   	Mr. Rime
+   	Growlithe	   	Snubbull	   	Electrike	   	Gabite	   	Sandile	   	Klefki	   	Bruxish	   	Runerigus
+   	Arcanine	   	Granbull	   	Manectric	   	Garchomp	   	Krokorok	   	Phantump	   	Drampa	   	Milcery
+   	Poliwag	   	Qwilfish	   	Plusle	   	Munchlax ※	   	Krookodile	   	Trevenant	   	Dhelmise	   	Alcremie
+   	Poliwhirl	   	Scizor	   	Minun	   	Riolu ※	   	Darumaka	   	Pumpkaboo	   	Jangmo-o	   	Falinks
+   	Poliwrath	   	Shuckle	   	Volbeat	   	Lucario	   	Darmanitan	   	Gourgeist	   	Hakamo-o	   	Pincurchin
+   	Abra	   	Heracross	   	Illumise	   	Hippopotas	   	Maractus	   	Bergmite	   	Kommo-o	   	Snom
+   	Kadabra	   	Sneasel	   	Roselia	   	Hippowdon	   	Dwebble	   	Avalugg	   	Tapu Koko double-dagger	   	Frosmoth
+   	Alakazam	   	Teddiursa	   	Gulpin	   	Skorupi	   	Crustle	   	Noibat	   	Tapu Lele double-dagger	   	Stonjourner
+   	Machop	   	Ursaring	   	Swalot	   	Drapion	   	Scraggy	   	Noivern	   	Tapu Bulu double-dagger	   	Eiscue
+   	Machoke	   	Slugma	   	Carvanha	   	Croagunk	   	Scrafty	   	Xerneas double-dagger	   	Tapu Fini double-dagger	   	Indeedee
+   	Machamp	   	Magcargo	   	Sharpedo	   	Toxicroak	   	Sigilyph	   	Yveltal double-dagger	   	Cosmog double-dagger	   	Morpeko
+   	Bellsprout	   	Swinub	   	Wailmer	   	Carnivine	   	Yamask	   	Zygarde double-dagger	   	Cosmoem double-dagger	   	Cufant
+   	Weepinbell	   	Piloswine	   	Wailord	   	Finneon	   	Cofagrigus	   	Diancie ♭	   	Solgaleo double-dagger	   	Copperajah
+   	Victreebel	   	Corsola	   	Numel	   	Lumineon	   	Tirtouga ~	   	Hoopa ♭	   	Lunala double-dagger	   	Dracozolt ~
+   	Tentacool	   	Remoraid	   	Camerupt	   	Mantyke ※	   	Carracosta ~	   	Volcanion ♭	   	Nihilego ♯	   	Arctozolt ~
+   	Tentacruel	   	Octillery	   	Torkoal	   	Snover	   	Archen ~	No additional Pokémon	   	Buzzwole ♯	   	Dracovish ~
+   	Geodude	   	Delibird	   	Spoink	   	Abomasnow	   	Archeops ~	   	Pheromosa ♯	   	Arctovish ~
+   	Graveler	   	Mantine	   	Grumpig	   	Weavile	   	Trubbish	   	Xurkitree ♯	   	Duraludon
+   	Golem	   	Skarmory	   	Spinda	   	Magnezone	   	Garbodor	   	Celesteela ♯	   	Dreepy
+   	Ponyta	   	Houndour	   	Trapinch	   	Lickilicky	   	Zorua	   	Kartana ♯	   	Drakloak
+   	Rapidash	   	Houndoom	   	Vibrava	   	Rhyperior	   	Zoroark	   	Guzzlord ♯	   	Dragapult
+   	Slowpoke	   	Kingdra	   	Flygon	   	Tangrowth	   	Minccino	   	Necrozma double-dagger	   	Zacian double-dagger
+   	Slowbro	   	Phanpy	   	Cacnea	   	Electivire	   	Cinccino	   	Magearna ♭	   	Zamazenta double-dagger
+   	Magnemite	   	Donphan	   	Cacturne	   	Magmortar	   	Gothita	   	Marshadow ♭	   	Eternatus double-dagger
+   	Magneton	   	Porygon 	   	Swablu	   	Togekiss	   	Gothorita	   	Poipole ♯	   	Kubfu double-dagger
+   	Farfetch'd	   	Stantler	   	Altaria	   	Yanmega	   	Gothitelle	   	Naganadel ♯	   	Urshifu double-dagger
+   	Doduo	   	Smeargle	   	Zangoose	   	Leafeon	   	Solosis	   	Stakataka ♯	   	Zarude ♭
+   	Dodrio	   	Tyrogue ※	   	Seviper	   	Glaceon	   	Duosion	   	Blacephalon ♯	N/A	Regieleki double-dagger
+   	Seel	   	Hitmontop	   	Lunatone	   	Gliscor	   	Reuniclus	   	Zeraora ♭	N/A	Regidrago double-dagger
+   	Dewgong	   	Smoochum ※	   	Solrock	   	Mamoswine	   	Ducklett	   	Meltan ♭	N/A	Calyrex double-dagger
+   	Grimer	   	Elekid ※	   	Barboach	   	Porygon-Z	   	Swanna	   	Melmetal ♭	No additional Pokémon
+   	Muk	   	Magby ※	   	Whiscash	   	Gallade	   	Vanillite	No additional Pokémon
+   	Shellder	   	Miltank	   	Corphish	   	Probopass	   	Vanillish
+   	Cloyster	   	Blissey	   	Crawdaunt	   	Dusknoir	   	Vanilluxe
+   	Gastly	   	Raikou double-dagger	   	Baltoy	   	Froslass	   	Deerling
+   	Haunter	   	Entei double-dagger	   	Claydol	   	Rotom	   	Sawsbuck
+   	Gengar	   	Suicune double-dagger	   	Lileep ~	   	Uxie double-dagger	   	Emolga
+   	Onix	   	Larvitar	   	Cradily ~	   	Mesprit double-dagger	   	Karrablast
+   	Drowzee	   	Pupitar	   	Anorith ~	   	Azelf double-dagger	   	Escavalier
+   	Hypno	   	Tyranitar	   	Armaldo ~	   	Dialga double-dagger	   	Foongus
+   	Krabby	   	Lugia double-dagger	   	Feebas	   	Palkia double-dagger	   	Amoonguss
+   	Kingler	   	Ho-oh double-dagger	   	Milotic	   	Heatran double-dagger	   	Frillish
+   	Voltorb	   	Celebi ♭	   	Castform	   	Regigigas double-dagger	   	Jellicent
+   	Electrode	No additional Pokémon	   	Kecleon	   	Giratina double-dagger	   	Alomomola
+   	Exeggcute	   	
+       Shuppet	   	Cresselia double-dagger	   	Joltik
+   	Exeggutor	   	
+       Banette	   	
+       Phione ♭	   	
+       Galvantula
+   	Cubone	   	
+       Duskull	   	
+       Manaphy ♭	   	
+       Ferroseed
+   	Marowak	   	
+       Dusclops	   	
+       Darkrai ♭	   	
+       Ferrothorn
+   	Hitmonlee	   	
+       Tropius	   	
+       Shaymin ♭	   	
+       Klink
+   	Hitmonchan	   	
+       Chimecho	   	
+       Arceus ♭	   	
+       Klang
+   	Lickitung	   	
+       Absol	
+       No additional Pokémon	   	
+       Klinklang
+   	Koffing	   	
+       Wynaut ※	   	
+       Tynamo
+   	Weezing	   	
+       Snorunt	   	
+       Eelektrik
+   	Rhyhorn	   	
+       Glalie	   	
+       Eelektross
+   	Rhydon	   	
+       Spheal	   	
+       Elgyem
+   	Chansey	   	
+       Sealeo	   	
+       Beheeyem
+   	Tangela	   	
+       Walrein	   	
+       Litwick
+   	Kangaskhan	   	
+       Clamperl	   	
+       Lampent
+   	Horsea	   	
+       Huntail	   	
+       Chandelure
+   	Seadra	   	
+       Gorebyss	   	
+       Axew
+   	Goldeen	   	
+       Relicanth	   	
+       Fraxure
+   	Seaking	   	
+       Luvdisc	   	
+       Haxorus
+   	Staryu	   	
+       Bagon	   	
+       Cubchoo
+   	Starmie	   	
+       Shelgon	   	
+       Beartic
+   	Mr. Mime	   	
+       Salamence	   
+       Cryogonal
+   	Scyther	   	
+Beldum	   
+Shelmet
+   	Jynx	   	
+Metang	   	
+Accelgor
+   	Electabuzz	   	
+Metagross	   	
+Stunfisk
+   	Magmar	   	
+Regirock double-dagger	   	
+    Mienfoo
+   	Pinsir	   	
+Regice double-dagger	   	
+    Mienshao
+   	Tauros	   
+Registeel double-dagger	   	
+    Druddigon
+   	Magikarp	   	
+    Latias double-dagger	   	
+    Golett
+   	Gyarados	
+   	Latios double-dagger	
+   	Golurk
+   	Lapras	
+   	Kyogre double-dagger	
+   	Pawniard
+   	Ditto	
+   	Groudon double-dagger	
+   	Bisharp
+   	Eeveedagger[d]	
+   	Rayquaza double-dagger	
+   	Bouffalant
+   	Vaporeon	
+   	Jirachi ♭	
+   	Rufflet
+   	Jolteon	
+   	Deoxys ♭[e]	
+   	Braviary
+   	Flareon	No additional Pokémon	
+   	Vullaby
+   	Porygon	
+   	Mandibuzz
+   	Omanyte ~	
+   	Heatmor
+   	Omastar ~	
+   	Durant
+   	Kabuto ~	
+   	Deino
+   	Kabutops ~	
+   	Zweilous
+   	Aerodactyl ~	
+   	Hydreigon
+Snorlax	   	
+Larvesta
+Articuno double-dagger	
+Volcarona
+Zapdos double-dagger	
+Cobalion double-dagger
+Moltres double-dagger	
+Terrakion double-dagger
+Dratini	
+Virizion double-dagger
+Dragonair	
+Tornadus double-dagger
+Dragonite	
+Thundurus double-dagger
+Mewtwo double-dagger	
+Reshiram double-dagger
+Mew ♭	
+Zekrom double-dagger
+No additional Pokémon	
+Landorus double-dagger
+Kyurem double-dagger
+Keldeo ♭
+Meloetta ♭
+Genesect ♭

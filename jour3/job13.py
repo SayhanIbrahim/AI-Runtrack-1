@@ -3,7 +3,7 @@
 import matplotlib.pyplot as plt
 
 liste = []
-fichier = open('data.txt', 'r')
+fichier = open('data1.txt', 'r')
 for line in fichier:
     x = line.split()
     liste.extend(x)
@@ -27,6 +27,7 @@ for alfa in alphabet:
             cnt = cnt + 1
     liste3.append(cnt)
 
+print(liste3)
 total = sum(liste3)
 liste4 = []
 for chiffre in liste3:
