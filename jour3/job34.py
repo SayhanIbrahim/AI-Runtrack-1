@@ -58,11 +58,9 @@ def motgenerateur():
         x = alphabet.index(letter)
         lst1 = []
         for index, (value1, value2) in enumerate(zip(matrix[x], alphabet)):
-            elmnt1 = value1 * value2
-            lst1.append(elmnt1)
-        y = random.choice(lst1)
-        y = lst1.index(y)
-        letter = alphabet[y]
+            elmnt1 = value1 * [value2]
+            lst1.extend(elmnt1)
+        letter = random.choice(lst1)
         i = i+1
     for i in lst:
         print(i, end="")
