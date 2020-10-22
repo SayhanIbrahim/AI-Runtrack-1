@@ -73,7 +73,7 @@ for mot in liste:
 total = sum(listoflenght.values())
 persentagelist = []
 for i in listoflenght.values():
-    persentage = i/total
+    persentage = i*100/total
     persentagelist.append(persentage)
 
 
