@@ -70,6 +70,12 @@ for mot in liste:
     else:
         continue
 
+total = sum(listoflenght.values())
+persentagelist = []
+for i in listoflenght.values():
+    persentage = i/total
+    persentagelist.append(persentage)
+
 
 def motgenerateur():
     lst = []
@@ -99,3 +105,13 @@ def phrasegenerateur():
 
 
 phrasegenerateur()
+
+labels = listoflenght.keys()
+sizes = persentagelist
+width = 0.45       # the width of the bars: can also be len(x) sequence
+fig, ax = plt.subplots()
+ax.bar(labels, sizes, width)
+ax.set_ylabel('Percentage')
+ax.set_title('Percentage by nom in the phrase')
+ax.legend()
+plt.show()
