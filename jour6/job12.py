@@ -22,13 +22,11 @@ def showjobsbyunit(nom):
 
     # fetching all records from the 'cursor' object
     records = cursor.fetchall()
-    print(records)
     chifre = 0
     liste = []
     for record in records:
         chifre = int(record[0])
         liste.append(chifre)
-    print(liste)
 
     # Showing the data
     query1 = "SELECT job.name, unit.name FROM job LEFT JOIN unit ON job.id = unit.id WHERE job.id = %s"
