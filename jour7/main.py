@@ -173,10 +173,13 @@ def ia():
                 col = 2
         elif len(positionlist) == 3:
             if [0, 2] not in positionlist:
+                row = 0
+                col = 2
+            elif [2, 0] not in positionlist:
                 row = 2
                 col = 0
-            elif [2, 0] not in positionlist:
-                row = 0
+            elif [2, 2] not in positionlist:
+                row = 2
                 col = 2
         elif 3 in rowsumlist:
             row = rowsumlist.index(3)
