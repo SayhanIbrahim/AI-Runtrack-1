@@ -44,7 +44,7 @@ def regionlist(board, row, col):
     return regionlist
 
 
-def checkvalue(board, cell, row, col):
+def checkcell(board, cell, row, col):
     if cell in rowlist(board, row):
         return False
     elif cell in columnlist(board, col):
@@ -69,7 +69,7 @@ def solve(controlboard, row=0, col=0):
             if len(numlist) == 0:
                 return
             cell = numlist.pop()
-            if checkvalue(board, cell, row, col):
+            if checkcell(board, cell, row, col):
                 board[row][col] = cell
                 if row == 8 and col == 8:
                     print("Sudoku Solved by AI")
