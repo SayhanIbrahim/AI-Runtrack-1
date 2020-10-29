@@ -69,8 +69,9 @@ def nextcell(row=0, col=0):
     return (nextrow, nextcol)
 
 
-def loadsudoku():
+def loadsudoku():  # Blit everything in the given sudoku to the screen
     board = openfilecreatesboard()
+    solve(board)
     font = pygame.font.Font(None, 30)
     row, col = 0, 0
     for line in board:
@@ -88,7 +89,8 @@ def loadsudoku():
                 pygame.display.update()
 
 
-def solvesudoku():
+def solvesudoku():  # Blit everything in the solution of sudoku to the screen
+
     boardsolution = openfilecreatesboard("solution.txt")
     boardcontrol = openfilecreatesboard()
     row, col = 0, 0
@@ -109,10 +111,8 @@ def solvesudoku():
                 continue
 
 
-def gamereset():
+def gamereset():  # For reset game
     os.remove("solution.txt")
-    board = openfilecreatesboard()
-    solve(board)
     pygame.init()
     startscreen()
 
