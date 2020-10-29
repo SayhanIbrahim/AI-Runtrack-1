@@ -73,11 +73,39 @@ def solve(controlboard, row=0, col=0):
                 board[row][col] = cell
                 if row == 8 and col == 8:
                     print("Sudoku Solved by AI")
-                    sudokuprinter(board)
+                    # sudokuprinter(board)
+                    stringconverter(board)
                 else:
                     solve(board, nextrow, nextcol)
     else:
         solve(board, nextrow, nextcol)
+
+    return board
+
+
+def stringconverter(board):
+    for i in range(9):
+        for j in range(9):
+            num = board[i][j]
+            board[i][j] = str(num)
+    solutioncollecter(board)
+
+
+def solutioncollecter(board):
+    solutionlist = []
+    for i in range(9):
+        line = "".join(board[i])
+        solutionlist.append(line)
+    solutionwrite(solutionlist)
+    return
+
+
+def solutionwrite(solutionlist):
+    for i in range(9):
+        line = str(solutionlist[i])
+        ths = open("solution.txt", "a")
+        ths.write(line+"\n")
+        ths.close()
 
 
 board = openfilecreatesboard()
