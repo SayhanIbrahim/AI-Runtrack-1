@@ -82,7 +82,6 @@ def winner():
             background.blit(User1, Xpos)
             screen.blit(background, (0, 0))
             pygame.display.update()
-            print("User 1 wins")
             time.sleep(2)
             gamereset()
         elif i == 15:
@@ -92,7 +91,6 @@ def winner():
             background.blit(User2, Xpos)
             screen.blit(background, (0, 0))
             pygame.display.update()
-            print("User 2 wins")
             time.sleep(2)
             gamereset()
         elif len(positionlist) == 9:
@@ -102,7 +100,6 @@ def winner():
             background.blit(draw, Xpos)
             screen.blit(background, (0, 0))
             pygame.display.update()
-            print("Draw")
             time.sleep(2)
             gamereset()
 
@@ -171,22 +168,25 @@ def ia():
             else:
                 row = 0
                 col = 2
-        elif len(positionlist) == 3:
-            if [0, 2] not in positionlist:
+        elif 5 in rowsumlist:
+            row = rowsumlist.index(5)
+            col = list(boardcalcul[row]).index(0)
+        elif 5 in colsumlist:
+            col = colsumlist.index(5)
+            row = list(boardcalculT[col]).index(0)
+        elif diag == 5 or diag1 == 5:
+            if [0, 0] not in positionlist:
                 row = 0
                 col = 2
-            elif [2, 0] not in positionlist:
+            elif[0, 2] not in positionlist:
+                row = 0
+                col = 2
+            elif [2, 0] in steplisthuman:
                 row = 2
                 col = 0
-            elif [2, 2] not in positionlist:
+            else:
                 row = 2
                 col = 2
-        elif 3 in rowsumlist:
-            row = rowsumlist.index(3)
-            col = list(boardcalcul[row]).index(0)
-        elif 3 in colsumlist:
-            col = colsumlist.index(3)
-            row = list(boardcalculT[col]).index(0)
 
         iaposition = [row, col]
         positionlist.append(iaposition)
