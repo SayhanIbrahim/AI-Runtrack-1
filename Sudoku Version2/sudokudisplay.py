@@ -44,7 +44,6 @@ def startscreen():
         else:
             pygame.draw.line(background, black, (i*width/9, 0),
                              (i*width/9, height), 4)
-
     # drawing horizontal lines
     for i in range(10):
         if i % 3 == 0:
@@ -90,7 +89,6 @@ def loadsudoku():  # Blit everything in the given sudoku to the screen
 
 
 def solvesudoku():  # Blit everything in the solution of sudoku to the screen
-
     boardsolution = openfilecreatesboard("solution.txt")
     boardcontrol = openfilecreatesboard()
     row, col = 0, 0
@@ -118,9 +116,7 @@ def gamereset():  # For reset game
 
 
 def mouseclick():
-
     x, y = pygame.mouse.get_pos()
-
     if x < 200 and y > 600:
         loadsudoku()
     elif 200 < x < 400 and y > 600:
@@ -136,9 +132,13 @@ startscreen()
 while True:
     for event in pygame.event.get():
         if event.type == QUIT:
-            os.remove("solution.txt")
-            pygame.quit()
-            sys.exit()
+            try:
+                os.remove("solution.txt")
+                pygame.quit()
+                sys.exit()
+            except:
+                pygame.quit()
+                sys.exit()
         if event.type == pygame.MOUSEBUTTONDOWN:
             mouseclick()
 

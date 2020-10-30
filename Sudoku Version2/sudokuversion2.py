@@ -14,7 +14,7 @@ def openfilecreatesboard(filename='sudoku.txt'):
                 linelist.append(int(chiffre))
         board.append(linelist)
     fichier.close()
-    sudokuprinter(board)
+    # sudokuprinter(board)
     return board
 
 
